@@ -882,3 +882,5 @@ plot(d2$year, d2$doy, col=col.alpha(rangi2, 0.3), pch=16)
 shade(mu.PI, d2$year, col=col.alpha("black", 0.5))
 abline(h = mean(d2$doy, col="black"))
 ```
+
+## Practice
